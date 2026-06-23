@@ -1,0 +1,6 @@
+{
+  "name": "Queue Cure",
+  "description": "Smart Clinic Queue Management System with doctor and receptionist portals, manual client scheduling, and real-time live clinic queue monitoring page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
